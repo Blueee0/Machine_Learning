@@ -42,10 +42,10 @@
    git clone https://github.com/your-username/your-repo-name.git
 2. 浏览文件夹，查看具体笔记内容。
 
-# 贡献
+## 贡献
 
 欢迎提交 PR 或 Issue，帮助我改进笔记内容。
 
-# 联系
+## 联系
 
 如有问题，请联系 [2522579678@qq.com](mailto:2522579678@qq.com)。
